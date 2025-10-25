@@ -14,3 +14,10 @@ Total 3 Dashboards are been made for this project
 
 ![Preview of dashboard](https://github.com/Arijeet226/Final-Project-Data-Analytics-Internship-Elevate-Labs/blob/95ac7533ab01131cd89acfffc3481b83059d747e/Main%20Project%20Deliverables(YouTube%20Trending%20Video%20Analytics)/Screenshots/Screenshot%202025-10-17%20110346.png)
 
+SECONDARY PROJECT DONE ON Airbnb Dynamic Pricing Recommendation Engine
+DELIVERABLES:-Deliverables:
+PowerBI dashboard with filters
+Python pricing engine script
+Final PDF with suggestions
+
+![Preview of dashboard](https://github.com/Arijeet226/Final-Project-Data-Analytics-Internship-Elevate-Labs/blob/ba49d025b1b4388890028dcb425690f5cb350b78/Secondary%20Project%20Deliverable(Airbnb%20Dynamic%20Pricing%20Recommendation%20Engine)/Screenshot/Screenshot%202025-10-20%20111615.png)
