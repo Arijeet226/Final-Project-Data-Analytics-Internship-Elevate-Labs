@@ -21,3 +21,7 @@ Python pricing engine script
 Final PDF with suggestions
 
 ![Preview of dashboard](https://github.com/Arijeet226/Final-Project-Data-Analytics-Internship-Elevate-Labs/blob/ba49d025b1b4388890028dcb425690f5cb350b78/Secondary%20Project%20Deliverable(Airbnb%20Dynamic%20Pricing%20Recommendation%20Engine)/Screenshot/Screenshot%202025-10-20%20111615.png)
+
+Whole detailed projects are in their respective folders
+
+## --THANK YOU--
